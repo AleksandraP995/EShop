@@ -1,0 +1,63 @@
+.center {
+    /*border: 5px solid;*/
+    text-align: center;
+}
+
+.cont {
+    margin-left: 5em;
+}
+
+.font-loader{
+    font-family: 'Lato';
+}
+
+.backArrow {
+    margin-left: -15em;
+    background-color :"gray";
+}
+
+.backText {
+    margin-left: -65em;
+}
+
+.card {
+    margin-right: 1em
+}
+
+.sign {
+    color: rgb(192, 186, 186);
+}
+
+.quant {
+    padding-right: 15em;
+}
+
+.price {
+    padding-left: 13em;
+}
+
+.card {
+    margin-left: 4em;
+}
+
+.cardMedia {
+    height: 220px
+}
+
+.button {
+    padding: 2em
+}
+
+.cardItem {
+    padding: 3em;
+    margin: 2em;
+    box-shadow: 25px 20px black;
+}
+
+.totalAmount {
+    /*padding: 7em;
+    margin: 2em;*/
+}
+.btnDropdown {
+    padding-right: 5em;
+}

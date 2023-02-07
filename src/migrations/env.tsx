@@ -1,0 +1,6 @@
+export const NEXT_PUBLIC_SPACE_ID='1bf096ggcc0p'
+export const NEXT_PUBLIC_DELIVERY_TOKEN='4HFZKeK2Vegtd6mFum7amML8bGsV8yudvfT1GOJZG4w'
+export const NEXT_PUBLIC_PREVIEW_TOKEN='SduH1A6SDGim5Rqiwfrd34Tg1U2l5zd9FmBxPcsRfcI'
+export const CMA_TOKEN='CFPAT-Y9lBqWAL3_wv-2B9iQdxYDLi_LlhLz1xtX3fphnB9s8'
+export const NEXT_PUBLIC_PREVIEW_SECRET='testing'
+export const NEXT_PUBLIC_ENVIRONMENT='Orijentiring';
